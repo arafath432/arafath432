@@ -1,4 +1,7 @@
-<h1 align="center">#![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&width=435&lines=Hi%2C+👋;I'm+Arafath+Sarker!)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&width=435&lines=Hi%2C+👋;I'm+Arafath+Sarker!" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Web Developer | Bug Bounty Hunter</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
@@ -8,6 +11,9 @@
 <!--About me part-->
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<h2 id="️-about-me">##🙋‍♂️ About Me</h2></p>
 <p><strong>I am a student who loves coding and exploring new technologies. I strive to improve my skills every day. Currently, I am learning about web application vulnerabilities and working on exploiting them ethically to enhance web security. Additionally, I can provide full-stack web development services.</strong></p>
+
+---
+
 - 🌱 I’m currently learning web security or bug bounty hunting and also new technologies of web
      development.
 - 👯 I'm looking to collaborate on interesting projects where I can contribute and learn.
