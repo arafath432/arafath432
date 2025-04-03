@@ -1,7 +1,6 @@
 <h1>Hi there 👋, I’m Arafath—coding by day, hacking by night, securing the web 24/7!</h1>
 <h2>Web Developer | Bug Bounty Hunter</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafath432&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
 <!--About me part-->
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<h3 id="️-about-me">🙋‍♂️ About Me</h3></p>
 <p><strong>I am a student who loves coding and exploring new technologies. I strive to improve my skills every day. Currently, I am learning about web application vulnerabilities and working on exploiting them ethically to enhance web security. Additionally, I can provide full-stack web development services.</strong></p>
