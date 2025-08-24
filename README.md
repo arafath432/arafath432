@@ -1,18 +1,13 @@
-<h1>Hi there 👋, I’m Arafath—coding by day, hacking by night, securing the web 24/7!</h1>
-<h2>Web Developer | Bug Bounty Hunter</h2>
+<h1>Hi there 👋, I’m Arafath-Building Modern Web Solutions With MongoDB, Express, React, Node.js And Diving Deep Into The Realms Of AI & Machine Learning.</h1>
+<h2>⚡ MERN Stack | 🤖 AI Enthusiast | 💡 Innovator  </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafath432&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
 <!--About me part-->
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<h3 id="️-about-me">🙋‍♂️ About Me</h3></p>
-<p><strong>I am a student who loves coding and exploring new technologies. I strive to improve my skills every day. Currently, I am learning about web application vulnerabilities and working on exploiting them ethically to enhance web security. Additionally, I can provide full-stack web development services.</strong></p>
+<p>I am a Computer Science and Engineering (CSE) student with a strong passion for coding and continuous learning. My primary focus is on Artificial Intelligence, particularly Machine Learning, where I am developing skills to build intelligent and impactful systems. I am also experienced in full-stack web development and enjoy working on projects that combine both software engineering and intelligent solutions.
 
----
+I am actively seeking opportunities to collaborate on challenging and meaningful projects where I can apply my knowledge, contribute effectively, and continue to grow as a developer and problem-solver.
 
-- 🌱 I’m currently learning web security or bug bounty hunting and also new technologies of web
-     development.
-- 👯 I'm looking to collaborate on interesting projects where I can contribute and learn.
-- 💬 Ask me about anything related to programming, technology and cyber security.
-- 📫 How to reach me: [arafathmd432@gmail.com](mailto:arafathmd432@gmail.com)
-- ⚡  Fun fact: I love playing football
+Feel free to reach out to me at: <a href="mailto:arafathmd432@gmail.com" style="color:black;text-decoration: none;background-color: #A9A9A9;border-radius: 5px">Send an Email</a></p>
 <h3>🚀 Languages and Tools I Use</h3>
 <!--Skills and tools-->
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
