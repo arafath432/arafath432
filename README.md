@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I’m Arafath-Building Modern Web Solutions With MongoDB, Express, React, Node.js And Diving Deep Into The Realms Of AI & Machine Learning.</h1>
 <h2>⚡ MERN Stack | 🤖 AI Enthusiast | 💡 Innovator  </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafath432&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArafathSarker&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
 <!--About me part-->
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<h3 id="️-about-me">🙋‍♂️ About Me</h3></p>
 <p>I am a Computer Science and Engineering (CSE) student with a strong passion for coding and continuous learning. My primary focus is on Artificial Intelligence, particularly Machine Learning, where I am developing skills to build intelligent and impactful systems. I am also experienced in full-stack web development and enjoy working on projects that combine both software engineering and intelligent solutions.
@@ -33,7 +33,7 @@ Feel free to reach out to me at: <a href="mailto:arafathmd432@gmail.com" style="
 <h3 id="connect-with-me">Connect with Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/arafath-sarker/"><img alt="Linkedin" title="Arafath Sarker Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-  <a href="https://github.com/arafath432/"><img alt="Github" title="Arafath Sarker Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://github.com/ArafathSarker/"><img alt="Github" title="Arafath Sarker Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
   <a href="https://www.facebook.com/arafathmd432"><img alt="Facebook" title="Arafath Sarker FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
   <a href="mailto:arafathmd432@gmail.com"><img alt="Gmail" title="Arafath Sarker Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
  </p>
@@ -42,9 +42,9 @@ Feel free to reach out to me at: <a href="mailto:arafathmd432@gmail.com" style="
  <h3 align="center">
  <b>GitHub Stats</b></h3>
  <!--Git hub api-->
-<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=arafath432&amp;&amp;show_icons=true&amp;count_private=true&amp;theme=github_dark"></th>
-<th><img src="https://github-readme-streak-stats.herokuapp.com/?user=arafath432&amp;theme=blueberry_duo"></th>
-</tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafath432&amp;layout=compact&amp;theme=github_dark"></td><td></td></tr></tbody></table>
+<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=ArafathSarker&amp;&amp;show_icons=true&amp;count_private=true&amp;theme=github_dark"></th>
+<th><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArafathSarker&amp;theme=blueberry_duo"></th>
+</tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafathSarker&amp;layout=compact&amp;theme=github_dark"></td><td></td></tr></tbody></table>
 
 <!--Operating systems-->
 <h3 id="operating-systems">Operating Systems</h3>
@@ -55,9 +55,9 @@ Feel free to reach out to me at: <a href="mailto:arafathmd432@gmail.com" style="
 </p>
 
 
-<!-- ![snake gif](https://github.com/arafath432/arafath432/blob/snake/github-snake-dark.svg) -->
+<!-- ![snake gif](https://github.com/ArafathSarker/ArafathSarker/blob/snake/github-snake-dark.svg) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafath432/arafath432/toufik/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafath432/arafath432/toufik/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arafath432/arafath432/toufik/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArafathSarker/ArafathSarker/toufik/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArafathSarker/ArafathSarker/toufik/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ArafathSarker/ArafathSarker/toufik/github-snake.svg" />
 </picture>
